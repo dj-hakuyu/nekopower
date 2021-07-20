@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 koooo
+=======
+koooo
+>>>>>>> 0bca1b13b10176372eb00bf95ef095bcec63d87f
 a
